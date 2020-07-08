@@ -25,10 +25,10 @@ link：https://chromedriver.storage.googleapis.com/index.html
 #### step3: 打开terminal
 #### step4: 如图所示进行输入所需参数
 
-![521593769280_ pic](https://user-images.githubusercontent.com/58396034/86456734-1b882b00-bd55-11ea-97d3-ebe615dea000.jpg)
+![WeChatWorkScreenshot_23ce6f03-7fa0-419b-9aac-c46f5d79637a](https://user-images.githubusercontent.com/58396034/86890105-675d1a80-c12f-11ea-9f71-3aaf5aaf8e33.png)
 
 每一个参数可供选择的分类如图所示（格式大小写请按照图中填写）
 
-![531593769449_ pic_hd](https://user-images.githubusercontent.com/58396034/86456666-ff848980-bd54-11ea-91f3-7cbc89ff2b0e.jpg)
+![WeChatWorkScreenshot_950b2ec3-3e6c-45de-baed-af6b4c83994e](https://user-images.githubusercontent.com/58396034/86890528-041fb800-c130-11ea-8a3a-3a7dba36a2a3.png)
 
 
